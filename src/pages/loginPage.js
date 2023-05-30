@@ -74,7 +74,7 @@ const Login = ({ setToken }) => {
 
      <div className="flex w-1/2 background-image i justify-around items-center m-3 rounded-lg">
        <div className='mt-12 mx-24'>
-         <h1 className="text-white font-bold text-4xl font-sans">Metorada</h1>
+         <h1 className="text-white font-bold text-4xl font-sans">Dromeda</h1>
          <p className="text-white mt-1">The stylish and responsive dashboard template built with Tailwind CSS for React. It offers a modern design, intuitive user interface, and a range of pre-designed components.</p>
          <button type="submit" className="block w-28 bg-white text-indigo-800 mt-4 py-2 rounded-2xl font-bold mb-2">Read More</button>
        </div>

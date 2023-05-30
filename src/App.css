@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.background-image {
+  background-image: url('https://images.wallpaperscraft.com/image/single/blur_gradient_glare_187423_1280x960.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* For responsiveness */
+@media screen and (max-width: 768px) {
+  .background-image {
+    background-position: top center;
+  }
+}
+
+
+
